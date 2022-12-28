@@ -85,12 +85,7 @@ h4, h5 {
     width: 25vh;
 }
 
-/*.music-file {
-    width: 16vw;
-    height: 2vh;
-}*/
-
-audio {
+.music-file {
     width: 16vw;
     height: 2vh;
 }
@@ -201,6 +196,10 @@ audio {
     /*align-self: center;*/
 }
 
+/*audio {
+    width: 100%
+}*/
+
 img {
     align-self: center;
 }
@@ -223,12 +222,11 @@ img {
     #faq_container {
         order: 3;
     }
-    
+    .music-file {
+        height: 0.5vh;
+    }
+
     .main-container {
         height: 30vh;
-    }
-    
-    .music-file {
-        height: 0.7vh;
     }
 }
