@@ -85,7 +85,12 @@ h4, h5 {
     width: 25vh;
 }
 
-.music-file {
+/*.music-file {
+    width: 16vw;
+    height: 2vh;
+}*/
+
+audio {
     width: 16vw;
     height: 2vh;
 }
@@ -224,7 +229,6 @@ img {
     }
     
     .music-file {
-        width: 16vw;
         height: 0.7vh;
     }
 }
