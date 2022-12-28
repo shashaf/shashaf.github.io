@@ -223,9 +223,12 @@ img {
         width: 80%;
     }
     .img-container {
-        width: max-content;
+        /*width: max-content;*/
     }
-    
+    .gallery-button {
+        width: 2.5vw;
+        height: 2.5vw;
+    }
     #auto-button {
         font-size: 100%;
         width: 3vw;
