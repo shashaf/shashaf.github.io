@@ -225,6 +225,12 @@ img {
     .img-container {
         width: max-content;
     }
+    
+    #auto-button {
+        font-size: 100%;
+        width: 3vw;
+        height: 2.5vw;
+    }
     #music_container {
         order: 2;
         align-items: center;
