@@ -222,9 +222,6 @@ img {
         order: 1;
         width: 80%;
     }
-    .img-container {
-        /*width: max-content;*/
-    }
     .gallery-button {
         width: 2.5vw;
         height: 2.5vw;
@@ -246,12 +243,8 @@ img {
         height: 0.5vh;
         visibility: hidden;
     }
-
     .music-links {
         visibility: visible;
     }
 
-    /*.main-container {
-        height: 60vh;
-    }*/
 }
