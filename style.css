@@ -220,4 +220,8 @@ img {
     #faq_container {
         order: 3;
     }
+    
+    .music-file {
+        height: 3px;
+    }
 }
