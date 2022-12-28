@@ -87,7 +87,7 @@ h4, h5 {
 
 .music-file {
     width: 16vw;
-    height: 2vh;
+    height: 20px;
 }
 
 .content-body {
@@ -223,7 +223,5 @@ img {
         order: 3;
     }
     
-    .music-file {
-        height: 0.5vh;
-    }
+
 }
