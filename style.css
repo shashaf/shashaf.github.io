@@ -216,6 +216,7 @@ img {
     }
     .content-container {
         flex-direction: column;
+        width: 80%;
     }
     #stuff_container {
         order: 1;
