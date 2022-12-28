@@ -204,7 +204,7 @@ img {
     align-self: center;
 }
 
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     body {
         align-content: space-around;
     }
