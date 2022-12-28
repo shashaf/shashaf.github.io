@@ -87,7 +87,7 @@ h4, h5 {
 
 .music-file {
     width: 16vw;
-    height: 20px;
+    height: 2vh;
 }
 
 .content-body {
@@ -223,10 +223,4 @@ img {
         height: 30vh;
     }
     
-    audio {
-        display: inline-block;
-        vertical-align: baseline;
-        width: 60px;
-        height: 5px;
-    }
 }
