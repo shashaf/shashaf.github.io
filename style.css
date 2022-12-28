@@ -90,6 +90,11 @@ h4, h5 {
     height: 2vh;
 }
 
+.music-links {
+    font-family: '8bitOperatorPlus-Regular';
+    visibility: hidden;
+}
+
 .content-body {
     display: flex;
     flex-direction: column;
@@ -224,6 +229,11 @@ img {
     }
     .music-file {
         height: 0.5vh;
+        visibility: hidden;
+    }
+
+    .music-links {
+        visibility: visible;
     }
 
     .main-container {
