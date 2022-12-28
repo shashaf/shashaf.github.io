@@ -212,6 +212,7 @@ img {
 @media only screen and (max-width: 600px) {
     body {
         align-content: space-around;
+        zoom: 235%;
     }
     .content-container {
         flex-direction: column;
