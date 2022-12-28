@@ -196,10 +196,6 @@ h4, h5 {
     /*align-self: center;*/
 }
 
-/*audio {
-    width: 100%
-}*/
-
 img {
     align-self: center;
 }
@@ -223,5 +219,14 @@ img {
         order: 3;
     }
     
-
+    .main-container {
+        height: 30vh;
+    }
+    
+    audio {
+        display: inline-block;
+        vertical-align: baseline;
+        width: 60px;
+        height: 5px;
+    }
 }
