@@ -216,12 +216,14 @@ img {
     }
     #music_container {
         order: 2;
+        align-items: center;
+        text-align: center;
     }
     #faq_container {
         order: 3;
     }
     
     .music-file {
-        height: 3px;
+        height: 0.5vh;
     }
 }
