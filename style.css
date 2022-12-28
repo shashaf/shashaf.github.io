@@ -220,6 +220,7 @@ img {
     }
     #stuff_container {
         order: 1;
+        width: 80%;
     }
     #music_container {
         order: 2;
