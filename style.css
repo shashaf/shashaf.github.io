@@ -223,4 +223,8 @@ img {
         height: 30vh;
     }
     
+    .music-file {
+    width: 16vw;
+    height: 0.7vh;
+}
 }
